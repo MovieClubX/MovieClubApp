@@ -1,0 +1,31 @@
+<AdLayout>
+<image>https://lh3.googleusercontent.com/bxGdjw-1OiUTkm6f199U41bQU_svP4emAJEGSeTMdkGRRrakoxcjEMhN6QAgEVL6sC8=w330-h185</image>
+<package>com.activision.callofduty.shooter</package>
+<title>Call of Duty®: Mobile</title>
+<description>Activision Publishing, Inc.</description>
+<appIcon>https://lh3.googleusercontent.com/6lEEhm2WZojAbZ1uqRJb-KEmT24xydDd5I0QjABtlNOeDr9NrNxztXe67AArHUFuqSI=s50</appIcon>
+</AdLayout>
+
+<AdLayout>
+<image>https://lh3.googleusercontent.com/X-sJYJHk6E3aTkk1OQWANBvOd9VcE9lWleCUkCMOP9H9-_vVZFvWoQpW2IIhwO1x-Mo=w330-h185</image>
+<package>com.tencent.ig</package>
+<title>Pubg Mobile Lite</title>
+<description>Pubg Tencent Game</description>
+<appIcon>https://lh3.googleusercontent.com/Kf1Bc7wkQtEkbdinSLJhGBNwIjm7R_fe4unmPXHO7bMwg_zArmRhgenhs7nNhb5pp6KJ=s50</appIcon>
+</AdLayout>
+
+<AdLayout>
+<image>https://lh3.googleusercontent.com/zSToL--ckKEUx2AuUU-LD3Rpt9uwPjKhfZ5FVQXV1Um-69rSw9mmdlCn4gaVqCjsmv4M=w330-h185</image>
+<package>com.outfit7.mytalkingtomfriends</package>
+<title>My Talking Tom Friends</title>
+<description>Talk to Tom</description>
+<appIcon>https://lh3.googleusercontent.com/hdoAZSg01No2pfqgyh1b6uXC0gcqCwh55Jtl7KrJjiTREcOdr-BYYXQ0tcIQOAgl9Xo=s50</appIcon>
+</AdLayout>
+
+<AdLayout>
+<image>https://lh3.googleusercontent.com/-mBqgiHSTd8gPMte757nfDNt2IL_GuL99Gux0l7uUJ0LFu44MyfK27P92LxeV5poh8wb=w330-h185</image>
+<package>com.playrix.township</package>
+<title>Township</title>
+<description>Playrix</description>
+<appIcon>https://lh3.googleusercontent.com/n5tCMV3bcfCPm-SeSc6YivesJ5TEeqD9WvFSLaMZ47XS0Vs-qqrp4aQ7Vp3hOu2R6II=s50</appIcon>
+</AdLayout>
