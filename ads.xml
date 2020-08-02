@@ -1,5 +1,13 @@
 <Ads>
 <AdLayout>
+<image>https://lh3.googleusercontent.com/dstqczqaVbze2yFnaOlhoGzKgh-sDvnc5DlZKtbmXizhGNmcNOY2I70NfCi-hqHriQ=h150</image>
+<package>com.sharingapps.XtremeShare</package>
+<title>XtremeShare - Share Files & Media Anywhere</title>
+<description>Share files easily with XtremeShare & send it anywhere locally with the help of wifi</description>
+<appIcon>https://lh3.googleusercontent.com/aI8J9EhzxQOyejag0Rntj996-N0YRmAZaFM8L8N5p3m9ykWrGzDrHmKw0JqdS-NdELdi=s180</appIcon>
+</AdLayout>
+  
+<AdLayout>
 <image>https://lh3.googleusercontent.com/bxGdjw-1OiUTkm6f199U41bQU_svP4emAJEGSeTMdkGRRrakoxcjEMhN6QAgEVL6sC8=w330-h185</image>
 <package>com.activision.callofduty.shooter</package>
 <title>Call of Duty®: Mobile</title>
