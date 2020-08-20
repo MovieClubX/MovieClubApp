@@ -1,13 +1,13 @@
 <Ads>
+
+  
 <AdLayout>
-<image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/xtremshar.gif</image>
-<package>https://apkpure.com/store/apps/details?id=com.sharingapps.XtremeShare</package>
-<title>XtremeShare - Share Files & Media Anywhere</title>
-<description>Share files easily with XtremeShare & send it anywhere locally with the help of wifi</description>
-<appIcon>https://lh3.googleusercontent.com/aI8J9EhzxQOyejag0Rntj996-N0YRmAZaFM8L8N5p3m9ykWrGzDrHmKw0JqdS-NdELdi=s180</appIcon>
+<image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/browserad.jpg</image>
+<package>com.braintonics.entertainment.uvid</package>
+<title>UVid - Superfast & Powerful Browser</title>
+<description>Open Tabs on any browser of big screen </description>
+<appIcon>https://lh3.googleusercontent.com/G524QSUB8AHmbkQfMoD5hiKrrQ0BGLYDYcH5HwASviq3eLxw9b3Kg1HUND5F_pfJ7lIf=s180</appIcon>
 </AdLayout>
-  
-  
   
 <AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/filemanager.gif</image>
@@ -17,16 +17,15 @@
 <appIcon>https://lh3.googleusercontent.com/ANFM_XIEjMK7lbzBp0NDdDnT61skbQMesd3EMo-9AD1SkNI-Z4KxINasa7YC0yhn7EuF=s180</appIcon>
 </AdLayout>
   
-
 <AdLayout>
-<image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/browserad.jpg</image>
-<package>com.braintonics.entertainment.uvid</package>
-<title>UVid - Superfast & Powerful Browser</title>
-<description>Open Tabs on any browser of big screen </description>
-<appIcon>https://lh3.googleusercontent.com/G524QSUB8AHmbkQfMoD5hiKrrQ0BGLYDYcH5HwASviq3eLxw9b3Kg1HUND5F_pfJ7lIf=s180</appIcon>
-</AdLayout>
-
-<AdLayout>
+<image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/xtremshar.gif</image>
+<package>com.sharingapps.XtremeShare</package>
+<title>XtremeShare - Share Files & Media Anywhere</title>
+<description>Share files easily with XtremeShare & send it anywhere locally with the help of wifi</description>
+<appIcon>https://lh3.googleusercontent.com/aI8J9EhzxQOyejag0Rntj996-N0YRmAZaFM8L8N5p3m9ykWrGzDrHmKw0JqdS-NdELdi=s180</appIcon>
+</AdLayout>  
+  
+<AdLayout#>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/kukubird.jpg</image>
 <package>com.apps.games.flyingkuku</package>
 <title>Flying KuKu</title>
@@ -34,7 +33,7 @@
 <appIcon>https://lh3.googleusercontent.com/Jl0u8IZmHXGo9c9ZwSc1vdcNlu7MLvdUQuLNa6jI_eTyJZYikl0WP7kNlTqo58BHxiA=s180</appIcon>
 </AdLayout>
 
-<AdLayout>
+<AdLayout#>
 <image>https://lh3.googleusercontent.com/-mBqgiHSTd8gPMte757nfDNt2IL_GuL99Gux0l7uUJ0LFu44MyfK27P92LxeV5poh8wb=w330-h185</image>
 <package>com.playrix.township</package>
 <title>Township</title>
