@@ -24,7 +24,7 @@
 <appIcon>https://lh3.googleusercontent.com/aI8J9EhzxQOyejag0Rntj996-N0YRmAZaFM8L8N5p3m9ykWrGzDrHmKw0JqdS-NdELdi=s180</appIcon>
 </AdLayout>  
   
-<AdLayout>
+<#AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/kukubird.jpg</image>
 <package>com.apps.games.flyingkuku</package>
 <title>Flying KuKu</title>
@@ -32,11 +32,4 @@
 <appIcon>https://lh3.googleusercontent.com/Jl0u8IZmHXGo9c9ZwSc1vdcNlu7MLvdUQuLNa6jI_eTyJZYikl0WP7kNlTqo58BHxiA=s180</appIcon>
 </AdLayout>
 
-<AdLayout>
-<image>https://lh3.googleusercontent.com/-mBqgiHSTd8gPMte757nfDNt2IL_GuL99Gux0l7uUJ0LFu44MyfK27P92LxeV5poh8wb=w330-h185</image>
-<package>com.playrix.township</package>
-<title>Township</title>
-<description>Playrix</description>
-<appIcon>https://lh3.googleusercontent.com/n5tCMV3bcfCPm-SeSc6YivesJ5TEeqD9WvFSLaMZ47XS0Vs-qqrp4aQ7Vp3hOu2R6II=s50</appIcon>
-</AdLayout>
 </Ads>
