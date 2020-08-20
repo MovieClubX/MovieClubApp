@@ -1,11 +1,13 @@
 <Ads>
 <AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/xtremshar.gif</image>
-<package>com.sharingapps.XtremeShare</package>
+<package>https://apkpure.com/store/apps/details?id=com.sharingapps.XtremeShare</package>
 <title>XtremeShare - Share Files & Media Anywhere</title>
 <description>Share files easily with XtremeShare & send it anywhere locally with the help of wifi</description>
 <appIcon>https://lh3.googleusercontent.com/aI8J9EhzxQOyejag0Rntj996-N0YRmAZaFM8L8N5p3m9ykWrGzDrHmKw0JqdS-NdELdi=s180</appIcon>
 </AdLayout>
+  
+  
   
 <AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/filemanager.gif</image>
@@ -14,6 +16,7 @@
 <description>Backup data from mobile to PC easily with this manager</description>
 <appIcon>https://lh3.googleusercontent.com/ANFM_XIEjMK7lbzBp0NDdDnT61skbQMesd3EMo-9AD1SkNI-Z4KxINasa7YC0yhn7EuF=s180</appIcon>
 </AdLayout>
+  
 
 <AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/browserad.jpg</image>
