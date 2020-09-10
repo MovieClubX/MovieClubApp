@@ -5,10 +5,10 @@
 <package>com.braintonics.entertainment.uvid</package>
 <title>UVid - Superfast & Powerful Browser</title>
 <description>Open Tabs on any browser of big screen </description>
-<appIcon>https://lh3.googleusercontent.com/G524QSUB8AHmbkQfMoD5hiKrrQ0BGLYDYcH5HwASviq3eLxw9b3Kg1HUND5F_pfJ7lIf=s180</appIcon>
+<appIcon>https://lh3.googleusercontent.com/bRtNaYjnqUIdJoy7T3m89e4DttZ0rwaTA6kADVTYTIVPnvFIxuEmBkko5zXNl4Xh7YA</appIcon>
 </AdLayout>
   
-<AdLayout>
+<#AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/filemanager.gif</image>
 <package>com.utils.apps.inexplorer</package>
 <title>IN File Explorer</title>
