@@ -1,10 +1,10 @@
 <Ads>
   
 <AdLayout>
-<image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/browserad.jpg</image>
+<image>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQnlI4Juk21PypKpfuZkc5kIdt5HlbzBKiKg&usqp=CAU</image>
 <package>com.braintonics.entertainment.uvid</package>
 <title>UVid Browser</title>
-<description>Open Tabs on any browser of big screen </description>
+<description>Watch & Download Movies easily</description>
 <appIcon>https://lh3.googleusercontent.com/bRtNaYjnqUIdJoy7T3m89e4DttZ0rwaTA6kADVTYTIVPnvFIxuEmBkko5zXNl4Xh7YA</appIcon>
 </AdLayout>
   
@@ -20,7 +20,7 @@
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/xtremshar.gif</image>
 <package>com.sharingapps.XtremeShare</package>
 <title>XtremeShare - Share Files & Media Anywhere</title>
-<description>Share files easily with XtremeShare & send it anywhere locally with the help of wifi</description>
+<description>Share files anywhere without any receiver(Standalone App)</description>
 <appIcon>https://lh3.googleusercontent.com/aI8J9EhzxQOyejag0Rntj996-N0YRmAZaFM8L8N5p3m9ykWrGzDrHmKw0JqdS-NdELdi=s180</appIcon>
 </AdLayout>  
   
