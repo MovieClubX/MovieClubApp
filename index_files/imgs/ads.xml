@@ -1,20 +1,20 @@
 <Ads>
   
 <AdLayout>
-<image>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQnlI4Juk21PypKpfuZkc5kIdt5HlbzBKiKg&usqp=CAU</image>
-<package>com.braintonics.entertainment.uvid</package>
-<title>UVid Browser</title>
-<description>Watch & Download Movies easily</description>
-<appIcon>https://lh3.googleusercontent.com/bRtNaYjnqUIdJoy7T3m89e4DttZ0rwaTA6kADVTYTIVPnvFIxuEmBkko5zXNl4Xh7YA</appIcon>
-</AdLayout>
-  
-<AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/kukubird.jpg</image>
 <package>com.apps.games.flyingkuku</package>
 <title>Flying KuKu</title>
 <description>Save the little bird from the pipes world</description>
 <appIcon>https://lh3.googleusercontent.com/Jl0u8IZmHXGo9c9ZwSc1vdcNlu7MLvdUQuLNa6jI_eTyJZYikl0WP7kNlTqo58BHxiA=s180</appIcon>
-</AdLayout>  
+</AdLayout> 
+  
+<AdLayout>
+<image>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQnlI4Juk21PypKpfuZkc5kIdt5HlbzBKiKg&usqp=CAU</image>
+<package>com.braintonics.entertainment.uvid</package>
+<title>UVid Browser</title>
+<description>Watch & Download Movies easily</description>
+<appIcon>https://lh3.googleusercontent.com/bRtNaYjnqUIdJoy7T3m89e4DttZ0rwaTA6kADVTYTIVPnvFIxuEmBkko5zXNl4Xh7YA</appIcon>
+</AdLayout> 
   
 <#AdLayout>
 <image>https://github.com/MovieClubX/getmovieclub_app/raw/master/index_files/imgs/filemanager.gif</image>
